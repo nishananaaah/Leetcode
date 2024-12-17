@@ -8,7 +8,6 @@ var findMaxK = function(nums) {
     }
     return -1
       
-       
-   };
-   console.log(findMaxK(nums))
+};
+console.log(findMaxK(nums))
    
